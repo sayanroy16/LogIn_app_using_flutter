@@ -37,6 +37,12 @@ class Ehrmis extends StatefulWidget {
 
 class _EhrmisState extends State<Ehrmis> {
   @override
+  void initState() {
+    super.initState();
+    // fetchMovies();
+  }
+
+  @override
   Widget build(BuildContext context) {
     return MaterialApp(
       home: new SplashScreen(

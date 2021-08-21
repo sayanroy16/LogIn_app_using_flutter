@@ -1,0 +1,1949 @@
+// GENERATED FOR JSON TO DART MODEL
+[
+	{
+		"result": [
+			{
+				"_id": "5ce3cf4075484f14104d7b76",
+				"director": [
+					"\tSajid Nadiadwala"
+				],
+				"writers": [
+					"\tRajat Arora"
+				],
+				"stars": [
+					"Salman Khan,Prem Khan"
+				],
+				"releasedDate": 1639078199,
+				"productionCompany": [
+					"Nadiadwala Grandson Entertainment"
+				],
+				"title": "Kick 2",
+				"language": "Hindi",
+				"runTime": null,
+				"genre": "action",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce3cf4075484f14104d7b77",
+						"updatedAt": 1562825564,
+						"genre": "action"
+					}
+				],
+				"pageViews": 671,
+				"description": "",
+				"poster": "https://hoblist.s3.ap-south-1.amazonaws.com/movies/poster/1562835251574_k2.jpg",
+				"totalVoted": 0,
+				"voting": 0
+			},
+			{
+				"_id": "5cdea154d734f51b9b295419",
+				"director": [
+					" S. Shankar"
+				],
+				"writers": [
+					"S. Shankar,B. Jeyamohan"
+				],
+				"stars": [
+					"Kamal Haasan,Suzy Bae,Kajal Aggarwal,Nana Patekar"
+				],
+				"releasedDate": 1609442999,
+				"productionCompany": [
+					"Lyca Productions"
+				],
+				"title": "Indian 2",
+				"language": "Hindi,Tamil,Telugu",
+				"runTime": null,
+				"genre": "action,drama,thriller",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5cdea154d734f51b9b29541c",
+						"updatedAt": 1562940735,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5cdea154d734f51b9b29541b",
+						"updatedAt": 1562940735,
+						"genre": "drama"
+					},
+					{
+						"upVoted": [
+							"5d4a9508b3f4fe0d3d89a333"
+						],
+						"downVoted": [],
+						"_id": "5cdea154d734f51b9b29541a",
+						"updatedAt": 1562940735,
+						"genre": "thriller"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1558094164577_Indian_2.jpg",
+				"pageViews": 684,
+				"description": "",
+				"totalVoted": 0,
+				"voting": 0
+			},
+			{
+				"_id": "5d24c616e1137b0f903865f3",
+				"director": [
+					"Rakesh Roshan"
+				],
+				"writers": [
+					"Rakesh Roshan"
+				],
+				"stars": [
+					"Hrithik Roshan,Nawazuddin Siddiqui"
+				],
+				"productionCompany": [
+					"Rakesh Roshan"
+				],
+				"pageViews": 688,
+				"title": "Krrish 4",
+				"language": "Hindi",
+				"runTime": null,
+				"releasedDate": 1608920999,
+				"genre": "action,adventure,scifi",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5d24c616e1137b0f903865f6",
+						"updatedAt": 1562691094,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5d24c616e1137b0f903865f5",
+						"updatedAt": 1562691094,
+						"genre": "adventure"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5d24c616e1137b0f903865f4",
+						"updatedAt": 1562691094,
+						"genre": "scifi"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1562691094068_Krrish_4.jpg",
+				"description": "",
+				"upVoted": [],
+				"downVoted": [
+					"5ff019542337772a083bf795"
+				],
+				"totalVoted": 1,
+				"voting": -1
+			},
+			{
+				"_id": "5ce39e8fc6a326046c9a8267",
+				"director": [
+					""
+				],
+				"writers": [
+					""
+				],
+				"stars": [
+					"Akshay Kumar,Ali Fazal,Sonu Sood"
+				],
+				"releasedDate": 1605209399,
+				"productionCompany": [
+					""
+				],
+				"title": "Prithviraj",
+				"language": "Hindi",
+				"runTime": null,
+				"genre": "action,adventure,biography,drama",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce39e8fc6a326046c9a826b",
+						"updatedAt": 1566793038,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce39e8fc6a326046c9a826a",
+						"updatedAt": 1566793038,
+						"genre": "adventure"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce39e8fc6a326046c9a8269",
+						"updatedAt": 1566793038,
+						"genre": "biography"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce39e8fc6a326046c9a8268",
+						"updatedAt": 1566793038,
+						"genre": "drama"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1558421135258_Prithviraj.jpg",
+				"pageViews": 193,
+				"description": "",
+				"totalVoted": 0,
+				"voting": 0
+			},
+			{
+				"_id": "5d2756f763eb1e138cbde2c6",
+				"director": [
+					"Abhishek Dudhaiya"
+				],
+				"writers": [
+					"Abhishek Dudhaiya"
+				],
+				"stars": [
+					"Ajay Devgn,Sanjay Dutt,Sonakshi Sinha,Parineeti Chopra"
+				],
+				"productionCompany": [
+					"Abhishek Dudhaiya"
+				],
+				"pageViews": 559,
+				"title": "Bhuj: The Pride of India",
+				"language": "Hindi",
+				"runTime": null,
+				"releasedDate": 1597346999,
+				"genre": "action",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5d60b40c802f2139f894e80b",
+						"genre": "action",
+						"updatedAt": 1566618636
+					}
+				],
+				"description": "",
+				"poster": "https://hoblist.s3.ap-south-1.amazonaws.com/movies/poster/1566618606112_4.jpeg",
+				"upVoted": [
+					"5f39083a2337772a083be35b"
+				],
+				"downVoted": [
+					"5f3aa6a02337772a083be365"
+				],
+				"totalVoted": 2,
+				"voting": 0
+			},
+			{
+				"_id": "5ce3a2d0c6a326046c9a85ca",
+				"director": [
+					"Karan Malhotra"
+				],
+				"writers": [
+					""
+				],
+				"stars": [
+					"Ranbir Kapoor,Sanjay Dutt,Vaani Kapoor,Fahim Fazli"
+				],
+				"releasedDate": 1596220199,
+				"productionCompany": [
+					"Yash Raj Films"
+				],
+				"title": "Shamshera",
+				"language": "Hindi",
+				"runTime": null,
+				"genre": "action,adventure",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce3a2d0c6a326046c9a85cc",
+						"updatedAt": 1563114548,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce3a2d0c6a326046c9a85cb",
+						"updatedAt": 1563114548,
+						"genre": "adventure"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1558422224326_Shamshera.jpg",
+				"pageViews": 347,
+				"description": "",
+				"totalVoted": 0,
+				"voting": 0
+			},
+			{
+				"_id": "5cdea400c5cdee1bf917dbca",
+				"director": [
+					"\tS. S. Rajamouli"
+				],
+				"writers": [
+					"\tS. S. Rajamouli,K. V. Vijayendra Prasad"
+				],
+				"stars": [
+					"Ram Charan,N.T. Rama Rao Jr.,Alia Bhatt,Ajay Devgn"
+				],
+				"releasedDate": 1596133799,
+				"productionCompany": [
+					"DVV Entertainments"
+				],
+				"title": "RRR",
+				"language": "Hindi,Malayalam,Tamil,Telugu",
+				"runTime": 215,
+				"genre": "action",
+				"voted": [
+					{
+						"upVoted": [
+							"5d47f9453de49a0ad55445f5",
+							"5d2ec1d9c60d0a1dc8bb4014"
+						],
+						"downVoted": [],
+						"_id": "5cdea400c5cdee1bf917dbcb",
+						"updatedAt": 1564033226,
+						"genre": "action"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1558094848577_RRR.jpg",
+				"pageViews": 364,
+				"description": "",
+				"totalVoted": 0,
+				"voting": 0
+			},
+			{
+				"_id": "5ce3cf6375484f14104d7b8b",
+				"director": [
+					"Mahesh Bhatt"
+				],
+				"writers": [
+					"\tVikram Bhatt Shagufta Rafique"
+				],
+				"stars": [
+					"Alia Bhatt,Sanjay Dutt,Aditya Roy Kapoor,Gulshan Grover"
+				],
+				"releasedDate": 1594405799,
+				"productionCompany": [
+					"Vishesh Films Fox Star Studios"
+				],
+				"title": "Sadak 2",
+				"language": "Hindi",
+				"runTime": -1,
+				"genre": "action,drama",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce3cf6375484f14104d7b8d",
+						"updatedAt": 1563116692,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce3cf6375484f14104d7b8c",
+						"updatedAt": 1563116692,
+						"genre": "drama"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1558433635434_Sadak_2.jpg",
+				"pageViews": 295,
+				"description": "",
+				"totalVoted": 0,
+				"voting": 0
+			},
+			{
+				"_id": "5ce3d11075484f14104d7d29",
+				"director": [
+					"Ahmed Khan"
+				],
+				"writers": [
+					""
+				],
+				"stars": [
+					"Tiger Shroff,Shraddha Kapoor"
+				],
+				"releasedDate": 1583436599,
+				"productionCompany": [
+					""
+				],
+				"title": "Baaghi 3",
+				"language": "Hindi",
+				"runTime": null,
+				"genre": "action",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce3d11075484f14104d7d2a",
+						"updatedAt": 1566811836,
+						"genre": "action"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1558434064509_Baaghi_3.jpg",
+				"pageViews": 537,
+				"description": "",
+				"upVoted": [
+					"5e61d298b57a766c57b2ecd2",
+					"5e65c2b36f8b393aca0ca2bf",
+					"5e5e1bcdb57a766c57b2c451"
+				],
+				"downVoted": [
+					"5e67c9a26f8b393aca0cbd7b"
+				],
+				"totalVoted": 4,
+				"voting": 2
+			},
+			{
+				"_id": "5e5396b15bf4cf14f670063a",
+				"description": "",
+				"director": [
+					"Shekkhar Suri"
+				],
+				"writers": [
+					""
+				],
+				"stars": [
+					"Karann Nathh,Nathalia Kaur,Ganesh Venkatraman,Shilpa Shirodkar"
+				],
+				"productionCompany": [
+					""
+				],
+				"pageViews": 264,
+				"upVoted": [],
+				"downVoted": [],
+				"title": "Guns of Banaras",
+				"language": "Hindi",
+				"runTime": null,
+				"releasedDate": 1582831799,
+				"genre": "action",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5e5396b15bf4cf14f670063b",
+						"updatedAt": 1582536369,
+						"genre": "action"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1582536369030_Guns_of Banaras.jpg",
+				"totalVoted": 0,
+				"voting": 0
+			},
+			{
+				"_id": "5dfa23930ac3a27a340ac23c",
+				"description": "",
+				"director": [
+					"Mohit Suri"
+				],
+				"writers": [
+					"Aseem Arora,Aniruddha Guha"
+				],
+				"stars": [
+					"Anil Kapoor,Aditya Roy Kapoor,Disha Patani,Kunal Khemu"
+				],
+				"productionCompany": [
+					"Aseem Arora,Aniruddha Guha,Mohit Suri"
+				],
+				"pageViews": 248,
+				"upVoted": [],
+				"downVoted": [],
+				"title": "Malang",
+				"language": "Hindi",
+				"runTime": null,
+				"releasedDate": 1581017399,
+				"genre": "action,romance",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5dfa23930ac3a27a340ac23e",
+						"updatedAt": 1576674195,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5dfa23930ac3a27a340ac23d",
+						"updatedAt": 1576674195,
+						"genre": "romance"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1576674195423_Malang.jpg",
+				"totalVoted": 0,
+				"voting": 0
+			},
+			{
+				"_id": "5e2ffe5d4223f702691cdd26",
+				"description": "",
+				"director": [
+					"Dinesh Parihar"
+				],
+				"writers": [
+					"Dinesh Parihar"
+				],
+				"stars": [
+					"Nitesh Shrivastava,Nidhi Shrivastava,Lokesh Gorker,Naysha Chaudhary"
+				],
+				"productionCompany": [
+					"Dinesh Parihar"
+				],
+				"pageViews": 238,
+				"upVoted": [
+					"5cc29c10fdab38486281ae2a",
+					"5e3acc4700c1141858b68a75"
+				],
+				"downVoted": [],
+				"title": "Run Zindagi Run",
+				"language": "Hindi",
+				"runTime": 152,
+				"releasedDate": 1580412599,
+				"genre": "action,crime,thriller",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5e2ffe5d4223f702691cdd29",
+						"updatedAt": 1580203613,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5e2ffe5d4223f702691cdd28",
+						"updatedAt": 1580203613,
+						"genre": "crime"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5e2ffe5d4223f702691cdd27",
+						"updatedAt": 1580203613,
+						"genre": "thriller"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1580203613705_Run_Zindagi Run.jpg",
+				"totalVoted": 2,
+				"voting": 2
+			},
+			{
+				"_id": "5ce3cf0575484f14104d7b3e",
+				"director": [
+					"Om Raut"
+				],
+				"writers": [
+					""
+				],
+				"stars": [
+					"Ajay Devgn,Saif Ali Khan,Kajol,Pankaj Tripathi"
+				],
+				"releasedDate": 1578598199,
+				"productionCompany": [
+					"Ajay Devgn FFilms,T-Series (company)"
+				],
+				"title": "Taanaji: The Unsung Warrior",
+				"language": "Hindi",
+				"runTime": null,
+				"genre": "action,biography,drama,war",
+				"voted": [
+					{
+						"upVoted": [
+							"5e21bdda416a070ee7ade36a"
+						],
+						"downVoted": [],
+						"_id": "5ce3cf0575484f14104d7b42",
+						"updatedAt": 1563469352,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce3cf0575484f14104d7b41",
+						"updatedAt": 1563469352,
+						"genre": "biography"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce3cf0575484f14104d7b40",
+						"updatedAt": 1563469352,
+						"genre": "drama"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce3cf0575484f14104d7b3f",
+						"updatedAt": 1563469352,
+						"genre": "war"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1558433541947_Taanaji:_The Unsung Warrior.jpg",
+				"pageViews": 694,
+				"description": "",
+				"upVoted": [
+					"5e17fb160638b447521caf09",
+					"5e1808eb0638b447521caf19",
+					"5e1808eb0638b447521caf19",
+					"5e1809350638b447521caf1d",
+					"5e1809760638b447521caf1f",
+					"5e1809760638b447521caf1f",
+					"5e18099e0638b447521caf23",
+					"5e1809be0638b447521caf25",
+					"5e1809ef0638b447521caf29",
+					"5e189667416a070ee7add113",
+					"5e18997a416a070ee7add11b",
+					"5e189b90416a070ee7add11f",
+					"5e189b90416a070ee7add11f",
+					"5e197f6f416a070ee7add25a",
+					"5d2c08b397260761e58250fc",
+					"5e1991686bae662cfe668d6f",
+					"5e1b5800416a070ee7add65b",
+					"5e1c761d416a070ee7add872",
+					"5e1c761d416a070ee7add872",
+					"5e1d5e26416a070ee7adda24",
+					"5e1df1ce416a070ee7addbe1",
+					"5e1df1ce416a070ee7addbdf",
+					"5e1e9ecb416a070ee7addc9e",
+					"5e1ec27b416a070ee7addd07",
+					"5e22a820416a070ee7ade549",
+					"5e22a841416a070ee7ade54d",
+					"5e22a84a416a070ee7ade54f",
+					"5e22a853416a070ee7ade551",
+					"5e23e3aae56a1f166b438d8f",
+					"5e149d070638b447521ca9c2",
+					"5e299edf3e0908442868b310",
+					"5e2a9495e56a1f166b43a748"
+				],
+				"downVoted": [
+					"5e1317300638b447521ca5a6",
+					"5e1978c6416a070ee7add241",
+					"5e1abe91416a070ee7add4cd",
+					"5e1b1fa2416a070ee7add58f",
+					"5e1b337d416a070ee7add5bd",
+					"5e1b49d7416a070ee7add61e",
+					"5e1eb595416a070ee7addce3",
+					"5e20b479416a070ee7ade208",
+					"5e2173a6416a070ee7ade2e8",
+					"5e241a80e56a1f166b438e66"
+				],
+				"totalVoted": 42,
+				"voting": 22
+			},
+			{
+				"_id": "5ce39e92c6a326046c9a826c",
+				"director": [
+					"\tAR Murugadoss"
+				],
+				"writers": [
+					"\tAR Murugadoss"
+				],
+				"stars": [
+					"Rajinikanth,Nayanthara,Atul Kulkarni,Kunal Khemu"
+				],
+				"releasedDate": 1578511799,
+				"productionCompany": [
+					"\t Lyca Productions"
+				],
+				"title": "Darbar",
+				"language": "Hindi,Malayalam,Tamil,Telugu",
+				"runTime": null,
+				"genre": "action",
+				"voted": [
+					{
+						"upVoted": [
+							"5e16c18a0638b447521cada5",
+							"5e19adc0416a070ee7add310",
+							"5e1aa903416a070ee7add4b8",
+							"5e1beb28416a070ee7add6de",
+							"5e1c2424416a070ee7add7d0"
+						],
+						"downVoted": [
+							"5e1c8d31416a070ee7add8ac",
+							"5e297644e56a1f166b43a169"
+						],
+						"_id": "5ce39e92c6a326046c9a826d",
+						"updatedAt": 1564138184,
+						"genre": "action"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1558421138596_Darbar.jpg",
+				"pageViews": 1374,
+				"description": "",
+				"upVoted": [
+					"5e16899f0638b447521cad69",
+					"5e16c18a0638b447521cada5",
+					"5e16c1a00638b447521cada7",
+					"5e17ea3f0638b447521caef3",
+					"5e17ea3f0638b447521caef3",
+					"5e17fb160638b447521caf09",
+					"5e17fb160638b447521caf09",
+					"5e1808f50638b447521caf1b",
+					"5e1809350638b447521caf1d",
+					"5e1809760638b447521caf1f",
+					"5e1809760638b447521caf21",
+					"5e18099e0638b447521caf23",
+					"5e1809be0638b447521caf25",
+					"5e1809be0638b447521caf27",
+					"5e1809ef0638b447521caf29",
+					"5e1809ef0638b447521caf2b",
+					"5cbfeff3ac575d0e1cff3439",
+					"5e1808eb0638b447521caf19",
+					"5e1808eb0638b447521caf19",
+					"5dea1701f5351d38390171ef",
+					"5e189e44416a070ee7add127",
+					"5e18a3a1416a070ee7add133",
+					"5e174fb20638b447521cae83",
+					"5e174fb20638b447521cae83",
+					"5e192b95416a070ee7add193",
+					"5e192b95416a070ee7add193",
+					"5e194067416a070ee7add1b2",
+					"5e194067416a070ee7add1b4",
+					"5e1978c6416a070ee7add241",
+					"5e197f6f416a070ee7add25a",
+					"5e197f6f416a070ee7add25a",
+					"5d2c08b397260761e58250fc",
+					"5e19943a416a070ee7add2a5",
+					"5e19acc6416a070ee7add30e",
+					"5e19acc6416a070ee7add30e",
+					"5e19adc0416a070ee7add310",
+					"5e19adc0416a070ee7add310",
+					"5e19c544416a070ee7add388",
+					"5e19c63b416a070ee7add38c",
+					"5e19c63b416a070ee7add38e",
+					"5e19c63b416a070ee7add38a",
+					"5e1991686bae662cfe668d6f",
+					"5e1a1d1b416a070ee7add44e",
+					"5e1a1d1b416a070ee7add450",
+					"5e1a392d416a070ee7add466",
+					"5e1a392d416a070ee7add466",
+					"5e1abe91416a070ee7add4cd",
+					"5e1abe91416a070ee7add4cf",
+					"5e1b1fa2416a070ee7add58f",
+					"5e1b337d416a070ee7add5bd",
+					"5e1b49d7416a070ee7add61e",
+					"5e1b49d7416a070ee7add61e",
+					"5e1bce25416a070ee7add6b4",
+					"5e1bce25416a070ee7add6b6",
+					"5e1be997416a070ee7add6d8",
+					"5e1be997416a070ee7add6da",
+					"5e1bf369416a070ee7add6e7",
+					"5e1bf369416a070ee7add6e9",
+					"5e1c0492416a070ee7add712",
+					"5e1c0492416a070ee7add714",
+					"5e1c0ec4416a070ee7add786",
+					"5e1c0ec4416a070ee7add786",
+					"5e1c10c0416a070ee7add796",
+					"5e1c10c0416a070ee7add796",
+					"5e16f3d00638b447521cade0",
+					"5e16f3d00638b447521cade0",
+					"5e1c19da416a070ee7add7c0",
+					"5e1c761d416a070ee7add872",
+					"5e1c868d416a070ee7add898",
+					"5e1cc2ed416a070ee7add953",
+					"5e1cc2ed416a070ee7add955",
+					"5cc15979093f951dd8cc990f",
+					"5e1df1ce416a070ee7addbdf",
+					"5e1df1ce416a070ee7addbdf",
+					"5e20b479416a070ee7ade208",
+					"5e14fc130638b447521caaca",
+					"5e21c4c7416a070ee7ade380",
+					"5e2452e7e56a1f166b438ee6",
+					"5e257319e56a1f166b439605",
+					"5e149d070638b447521ca9c2",
+					"5e6f41033247fc29fe7f555d",
+					"5f30cdf82337772a083be2e0"
+				],
+				"downVoted": [
+					"5e1317300638b447521ca5a6",
+					"5e189b90416a070ee7add11f",
+					"5e189b90416a070ee7add11f",
+					"5e192b95416a070ee7add195",
+					"5e1b3a4c416a070ee7add5fc",
+					"5e1b6844416a070ee7add66f",
+					"5e1b6844416a070ee7add671",
+					"5e1c2424416a070ee7add7d0",
+					"5e1c2424416a070ee7add7d0",
+					"5e1eb595416a070ee7addce3",
+					"5e2173a6416a070ee7ade2e8",
+					"5e2173a6416a070ee7ade2e8",
+					"5e23e3aae56a1f166b438d8f",
+					"5e241a80e56a1f166b438e66"
+				],
+				"totalVoted": 96,
+				"voting": 68
+			},
+			{
+				"_id": "5cd947f652a69b2ecc37d668",
+				"director": [
+					"Prabhu Deva"
+				],
+				"writers": [
+					"Dilip Shukla,Aloke Upadhyaya"
+				],
+				"stars": [
+					"Salman Khan, Mahie Gill, Sonakshi Sinha, Arbaaz Khan"
+				],
+				"releasedDate": 1576783799,
+				"productionCompany": [
+					"Salman Khan Films,Arbaaz Khan Productions,Saffron Broadcast & Media Limited"
+				],
+				"title": "Dabangg 3",
+				"language": "Hindi,Kannada,Telugu",
+				"genre": "action",
+				"voted": [
+					{
+						"upVoted": [
+							"5cd2b6322a550d1382d440c0",
+							"5e22a255416a070ee7ade520"
+						],
+						"downVoted": [],
+						"_id": "5cd947f652a69b2ecc37d669",
+						"updatedAt": 1576653861,
+						"genre": "action"
+					}
+				],
+				"poster": "https://hoblist.s3.ap-south-1.amazonaws.com/movies/poster/1576653897971_220px-Dabangg_3_poster.jpg",
+				"runTime": null,
+				"pageViews": 874,
+				"description": "",
+				"upVoted": [
+					"5dfc575d0ac3a27a340ac2e5",
+					"5dfc7e060ac3a27a340ac2e9",
+					"5dfc7e450ac3a27a340ac2eb",
+					"5cbfeff3ac575d0e1cff3439",
+					"5dfcdaf40ac3a27a340ac363",
+					"5deba3f7467796395b7d293e",
+					"5e01ce580638b447521c9aff",
+					"5e01ce580638b447521c9aff",
+					"5e06d5580638b447521c9bd0"
+				],
+				"downVoted": [
+					"5e01ce580638b447521c9b01",
+					"5e1b337d416a070ee7add5bd",
+					"5e1991686bae662cfe668d6f",
+					"5fa290d52337772a083bef6b"
+				],
+				"totalVoted": 13,
+				"voting": 5
+			},
+			{
+				"_id": "5ce3d0c575484f14104d7cd4",
+				"director": [
+					" Gopi Puthran"
+				],
+				"writers": [
+					" Gopi Puthran"
+				],
+				"stars": [
+					"Rani Mukerji,Jishu Sengupta"
+				],
+				"releasedDate": 1576178999,
+				"productionCompany": [
+					" Yash Raj Films"
+				],
+				"title": "Mardaani 2",
+				"language": "Hindi",
+				"runTime": 141,
+				"genre": "action,drama,thriller",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce3d0c575484f14104d7cd7",
+						"updatedAt": 1566798898,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce3d0c575484f14104d7cd6",
+						"updatedAt": 1566798898,
+						"genre": "drama"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce3d0c575484f14104d7cd5",
+						"updatedAt": 1566798898,
+						"genre": "thriller"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1558433989412_Mardaani_2.jpg",
+				"pageViews": 357,
+				"description": "",
+				"downVoted": [
+					"5e1b337d416a070ee7add5bd"
+				],
+				"upVoted": [
+					"5e253d725e82ef0e56d6fd3f"
+				],
+				"totalVoted": 2,
+				"voting": 0
+			},
+			{
+				"_id": "5ce3cee575484f14104d7b1d",
+				"director": [
+					"Ashutosh Gowariker"
+				],
+				"writers": [
+					""
+				],
+				"stars": [
+					"Kriti Sanon,Sanjay Dutt,Arjun Kapoor,Mir Sarwar"
+				],
+				"releasedDate": 1575574199,
+				"productionCompany": [
+					"Ashutosh Gowariker Productions Vision World Films"
+				],
+				"title": "Panipat",
+				"language": "Hindi",
+				"runTime": null,
+				"genre": "action,drama,war",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [
+							"5deb513b467796395b7d2886"
+						],
+						"_id": "5ce3cee575484f14104d7b20",
+						"updatedAt": 1563115573,
+						"genre": "action"
+					},
+					{
+						"upVoted": [
+							"5deb513b467796395b7d2886"
+						],
+						"downVoted": [],
+						"_id": "5ce3cee575484f14104d7b1f",
+						"updatedAt": 1563115573,
+						"genre": "drama"
+					},
+					{
+						"upVoted": [
+							"5deb513b467796395b7d2886"
+						],
+						"downVoted": [],
+						"_id": "5ce3cee575484f14104d7b1e",
+						"updatedAt": 1563115573,
+						"genre": "war"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1558433509979_Panipat.jpg",
+				"pageViews": 1327,
+				"description": "",
+				"upVoted": [
+					"5de9e9f7c669bb3aebba5a21",
+					"5de9fa30c669bb3aebba5a2a",
+					"5de9fa32c669bb3aebba5a2c",
+					"5de9fa33c669bb3aebba5a2e",
+					"5de9fa33c669bb3aebba5a30",
+					"5de9fa34c669bb3aebba5a32",
+					"5de9fa48c669bb3aebba5a3c",
+					"5de9fe92c669bb3aebba5a48",
+					"5de9fe93c669bb3aebba5a4a",
+					"5de9fe94c669bb3aebba5a4c",
+					"5de9fe95c669bb3aebba5a4e",
+					"5de9fe96c669bb3aebba5a50",
+					"5de9fed5c669bb3aebba5a58",
+					"5de9fed5c669bb3aebba5a5a",
+					"5de9fed6c669bb3aebba5a5c",
+					"5de9fed6c669bb3aebba5a5e",
+					"5de9fed6c669bb3aebba5a60",
+					"5cc29c10fdab38486281ae2a",
+					"5de9feeac669bb3aebba5a69",
+					"5de9feeac669bb3aebba5a6b",
+					"5de9feebc669bb3aebba5a6d",
+					"5de9feebc669bb3aebba5a6f",
+					"5de9feecc669bb3aebba5a71",
+					"5de9feecc669bb3aebba5a73",
+					"5de9feecc669bb3aebba5a75",
+					"5de9feecc669bb3aebba5a77",
+					"5de9feedc669bb3aebba5a7b",
+					"5de9feedc669bb3aebba5a79",
+					"5de9feedc669bb3aebba5a7d",
+					"5de9feedc669bb3aebba5a7f",
+					"5de9feedc669bb3aebba5a81",
+					"5de9feedc669bb3aebba5a83",
+					"5de9feedc669bb3aebba5a85",
+					"5de9feedc669bb3aebba5a87",
+					"5de9feeec669bb3aebba5a89",
+					"5de9feefc669bb3aebba5a8b",
+					"5de9feefc669bb3aebba5a8d",
+					"5de9feefc669bb3aebba5a8f",
+					"5de9fef0c669bb3aebba5a91",
+					"5de9fef0c669bb3aebba5a95",
+					"5de9fef0c669bb3aebba5a99",
+					"5de9fef0c669bb3aebba5a97",
+					"5de9fef0c669bb3aebba5a93",
+					"5de9fef0c669bb3aebba5a9b",
+					"5de9fef1c669bb3aebba5a9d",
+					"5de9fef1c669bb3aebba5a9f",
+					"5de9fef1c669bb3aebba5aa1",
+					"5de9fef1c669bb3aebba5aa3",
+					"5de9fef1c669bb3aebba5aa5",
+					"5de9ff03c669bb3aebba5aa7",
+					"5de9ff05c669bb3aebba5aaf",
+					"5de9ff07c669bb3aebba5ab1",
+					"5de9ff27c669bb3aebba5ac5",
+					"5de9ff27c669bb3aebba5ac7",
+					"5de9ff27c669bb3aebba5ac9",
+					"5de9ff27c669bb3aebba5acb",
+					"5de9ff28c669bb3aebba5acd",
+					"5de9ff28c669bb3aebba5acf",
+					"5de9ff28c669bb3aebba5ad1",
+					"5de9ff28c669bb3aebba5ad3",
+					"5de9ff28c669bb3aebba5ad5",
+					"5de9ff29c669bb3aebba5ad7",
+					"5de9ff29c669bb3aebba5ad9",
+					"5de9ff29c669bb3aebba5adb",
+					"5de9ff29c669bb3aebba5add",
+					"5de9ff2ac669bb3aebba5adf",
+					"5de9ff2ac669bb3aebba5ae1",
+					"5de9ff2ac669bb3aebba5ae3",
+					"5de9ff2bc669bb3aebba5ae5",
+					"5de9ff2bc669bb3aebba5ae7",
+					"5de9ff2bc669bb3aebba5ae9",
+					"5de9ff2bc669bb3aebba5aeb",
+					"5de9ff2bc669bb3aebba5aed",
+					"5de9ff2cc669bb3aebba5aef",
+					"5de9ff2cc669bb3aebba5af1",
+					"5de9ff2cc669bb3aebba5af3",
+					"5de9ff2cc669bb3aebba5af7",
+					"5de9ff2cc669bb3aebba5af9",
+					"5de9ff2dc669bb3aebba5afb",
+					"5de9ff2dc669bb3aebba5afd",
+					"5de9ff2dc669bb3aebba5b01",
+					"5de9ff2ec669bb3aebba5b03",
+					"5de9ff2ec669bb3aebba5b05",
+					"5de9ff2ec669bb3aebba5b07",
+					"5de9ff33c669bb3aebba5b0f",
+					"5de9ff33c669bb3aebba5b11",
+					"5de9ff34c669bb3aebba5b13",
+					"5de9ff34c669bb3aebba5b15",
+					"5de9ff34c669bb3aebba5b17",
+					"5de9ff34c669bb3aebba5b19",
+					"5de9ff35c669bb3aebba5b1b",
+					"5de9ff35c669bb3aebba5b1d",
+					"5de9ff35c669bb3aebba5b1f",
+					"5de9ff35c669bb3aebba5b21",
+					"5de9ff36c669bb3aebba5b23",
+					"5de9ff36c669bb3aebba5b25",
+					"5de9ff36c669bb3aebba5b27",
+					"5de9ff37c669bb3aebba5b29",
+					"5de9ff37c669bb3aebba5b2b",
+					"5de9ff37c669bb3aebba5b2d",
+					"5de9ff37c669bb3aebba5b2f",
+					"5de9ff37c669bb3aebba5b31",
+					"5de9ff38c669bb3aebba5b33",
+					"5de9ff38c669bb3aebba5b35",
+					"5de9ff38c669bb3aebba5b37",
+					"5de9ff38c669bb3aebba5b39",
+					"5de9ff38c669bb3aebba5b3b",
+					"5de9ff39c669bb3aebba5b3d",
+					"5de9ff39c669bb3aebba5b3f",
+					"5de9ff39c669bb3aebba5b41",
+					"5de9ff39c669bb3aebba5b43",
+					"5de9ff3ac669bb3aebba5b45",
+					"5de9ff3ac669bb3aebba5b47",
+					"5de9ff3ac669bb3aebba5b49",
+					"5de9ff3ac669bb3aebba5b4b",
+					"5dea0192c669bb3aebba5c60",
+					"5dea0194c669bb3aebba5c62",
+					"5dea0194c669bb3aebba5c64",
+					"5dea0194c669bb3aebba5c66",
+					"5dea0194c669bb3aebba5c68",
+					"5dea0195c669bb3aebba5c6a",
+					"5dea0195c669bb3aebba5c6c",
+					"5dea0195c669bb3aebba5c6e",
+					"5dea0199c669bb3aebba5c70",
+					"5dea0270814c0d169cd9518f",
+					"5dea0274814c0d169cd95191",
+					"5dea0276814c0d169cd95193",
+					"5dea04dec669bb3aebba5cf8",
+					"5dea04dfc669bb3aebba5cfa",
+					"5dea04dfc669bb3aebba5cfc",
+					"5dea04dfc669bb3aebba5cfe",
+					"5dea04dfc669bb3aebba5d00",
+					"5dea04e0c669bb3aebba5d02",
+					"5dea04e0c669bb3aebba5d04",
+					"5dea0578c669bb3aebba5d12",
+					"5dea0579c669bb3aebba5d14",
+					"5dea0579c669bb3aebba5d16",
+					"5dea04979b68db1858735c2b",
+					"5dea08d0c669bb3aebba5d25",
+					"5dea08d1c669bb3aebba5d27",
+					"5dea08d8c669bb3aebba5d2d",
+					"5dea1701f5351d38390171ef",
+					"5dea17dcf5351d38390171f1",
+					"5dea17f2f5351d38390171f3",
+					"5cbfeff3ac575d0e1cff3439",
+					"5deb50fc467796395b7d287e",
+					"5deb514d467796395b7d2888",
+					"5deb5178467796395b7d288c",
+					"5deb5188467796395b7d288e",
+					"5deb51c1467796395b7d2892",
+					"5deb51c1467796395b7d2894",
+					"5deb51be467796395b7d2890",
+					"5deb5466467796395b7d28dc",
+					"5deb5467467796395b7d28de",
+					"5deb5467467796395b7d28e0",
+					"5deb5468467796395b7d28e2",
+					"5deb5468467796395b7d28e4",
+					"5deb5468467796395b7d28e6",
+					"5deb5468467796395b7d28e8",
+					"5deb5468467796395b7d28ea",
+					"5deb5469467796395b7d28ec",
+					"5deb5469467796395b7d28ee",
+					"5deb5469467796395b7d28f0",
+					"5deb5469467796395b7d28f2",
+					"5deb5469467796395b7d28f4",
+					"5deb5469467796395b7d28f6",
+					"5deb546a467796395b7d28f8",
+					"5deb546a467796395b7d28fa",
+					"5deb546a467796395b7d28fc",
+					"5deb546a467796395b7d28fe",
+					"5deb546a467796395b7d2900",
+					"5deb546a467796395b7d2902",
+					"5deb546b467796395b7d2904",
+					"5deb546b467796395b7d2906",
+					"5deb546b467796395b7d2908",
+					"5deb546b467796395b7d290a",
+					"5deb546b467796395b7d290c",
+					"5deb546b467796395b7d290e",
+					"5deb546c467796395b7d2910",
+					"5deb546c467796395b7d2912",
+					"5deb546c467796395b7d2914",
+					"5deb546c467796395b7d2916",
+					"5deb546c467796395b7d2918",
+					"5deb546c467796395b7d291a",
+					"5deb546f467796395b7d291c",
+					"5deb5470467796395b7d291e",
+					"5deb5471467796395b7d2920",
+					"5deb5472467796395b7d2922",
+					"5deb5472467796395b7d2924",
+					"5deb5473467796395b7d2926",
+					"5deb5473467796395b7d2928",
+					"5deb5473467796395b7d292a",
+					"5deb5473467796395b7d292c",
+					"5deb547a467796395b7d292e",
+					"5deb547b467796395b7d2930",
+					"5deb547c467796395b7d2932",
+					"5deb547c467796395b7d2934",
+					"5deb7683467796395b7d2936",
+					"5deb76ae467796395b7d2938",
+					"5deb7711467796395b7d293a",
+					"5deb7736467796395b7d293c",
+					"5dfc5b74739142130ac6148c",
+					"5e032c6d0638b447521c9b49",
+					"5e147ea88a665127a34bad0d",
+					"5e1991686bae662cfe668d6f"
+				],
+				"downVoted": [
+					"5de9fa42c669bb3aebba5a34",
+					"5de9fa44c669bb3aebba5a36",
+					"5de9fa44c669bb3aebba5a38",
+					"5de9fa45c669bb3aebba5a3a",
+					"5de9febcc669bb3aebba5a52",
+					"5de9fec0c669bb3aebba5a54",
+					"5de9fec2c669bb3aebba5a56",
+					"5d8b360c14124c3611103a7a",
+					"5dea005bc669bb3aebba5b88",
+					"5dea005bc669bb3aebba5b8a",
+					"5dea005bc669bb3aebba5b8c",
+					"5dea005cc669bb3aebba5b8e",
+					"5dea005cc669bb3aebba5b90",
+					"5dea005dc669bb3aebba5b92",
+					"5dea005dc669bb3aebba5b94",
+					"5dea005dc669bb3aebba5b96",
+					"5dea005dc669bb3aebba5b98",
+					"5dea005dc669bb3aebba5b9a",
+					"5dea005dc669bb3aebba5b9c",
+					"5dea005ec669bb3aebba5b9e",
+					"5dea005ec669bb3aebba5ba0",
+					"5dea005ec669bb3aebba5ba2",
+					"5dea005ec669bb3aebba5ba4",
+					"5dea005ec669bb3aebba5ba6",
+					"5dea005fc669bb3aebba5ba8",
+					"5dea005fc669bb3aebba5baa",
+					"5dea005fc669bb3aebba5bac",
+					"5dea0061c669bb3aebba5bae",
+					"5dea0062c669bb3aebba5bb0",
+					"5dea0062c669bb3aebba5bb2",
+					"5dea0062c669bb3aebba5bb4",
+					"5dea0062c669bb3aebba5bb6",
+					"5dea0062c669bb3aebba5bb8",
+					"5dea0063c669bb3aebba5bba",
+					"5dea0063c669bb3aebba5bbc",
+					"5dea0063c669bb3aebba5bbe",
+					"5dea0063c669bb3aebba5bc0",
+					"5dea0064c669bb3aebba5bc2",
+					"5dea0064c669bb3aebba5bc4",
+					"5dea0064c669bb3aebba5bc6",
+					"5dea0065c669bb3aebba5bc8",
+					"5dea0065c669bb3aebba5bca",
+					"5dea0065c669bb3aebba5bcc",
+					"5dea0065c669bb3aebba5bce",
+					"5dea0065c669bb3aebba5bd0",
+					"5dea0066c669bb3aebba5bd2",
+					"5dea0066c669bb3aebba5bd4",
+					"5dea0066c669bb3aebba5bd6",
+					"5dea00b2c669bb3aebba5c12",
+					"5dea00b2c669bb3aebba5c10",
+					"5dea00b2c669bb3aebba5c14",
+					"5dea00b3c669bb3aebba5c16",
+					"5dea00b3c669bb3aebba5c18",
+					"5dea00b3c669bb3aebba5c1a",
+					"5dea00b3c669bb3aebba5c1c",
+					"5dea00b3c669bb3aebba5c1e",
+					"5dea00b4c669bb3aebba5c20",
+					"5dea00b4c669bb3aebba5c22",
+					"5dea00b4c669bb3aebba5c24",
+					"5dea00b4c669bb3aebba5c26",
+					"5dea00b4c669bb3aebba5c28",
+					"5dea00b4c669bb3aebba5c2a",
+					"5dea00b5c669bb3aebba5c2c",
+					"5dea00b5c669bb3aebba5c2e",
+					"5dea00b5c669bb3aebba5c30",
+					"5dea00b5c669bb3aebba5c32",
+					"5dea00b5c669bb3aebba5c34",
+					"5dea00b5c669bb3aebba5c36",
+					"5dea00b6c669bb3aebba5c38",
+					"5dea00b6c669bb3aebba5c3a",
+					"5dea00b6c669bb3aebba5c3c",
+					"5dea00b6c669bb3aebba5c3e",
+					"5dea00b6c669bb3aebba5c40",
+					"5dea00b6c669bb3aebba5c42",
+					"5dea00b7c669bb3aebba5c44",
+					"5dea00b7c669bb3aebba5c46",
+					"5dea00b8c669bb3aebba5c48",
+					"5dea00b8c669bb3aebba5c4a",
+					"5dea00b9c669bb3aebba5c4c",
+					"5dea019dc669bb3aebba5c72",
+					"5dea019ec669bb3aebba5c74",
+					"5dea019ec669bb3aebba5c76",
+					"5dea019ec669bb3aebba5c78",
+					"5dea019ec669bb3aebba5c7a",
+					"5dea019ec669bb3aebba5c7c",
+					"5dea019ec669bb3aebba5c7e",
+					"5dea019ec669bb3aebba5c80",
+					"5dea019fc669bb3aebba5c82",
+					"5dea019fc669bb3aebba5c84",
+					"5dea019fc669bb3aebba5c86",
+					"5dea019fc669bb3aebba5c88",
+					"5dea019fc669bb3aebba5c8a",
+					"5dea01a0c669bb3aebba5c8c",
+					"5dea01a0c669bb3aebba5c8e",
+					"5dea01a0c669bb3aebba5c90",
+					"5dea01a0c669bb3aebba5c92",
+					"5dea01a0c669bb3aebba5c94",
+					"5dea01a1c669bb3aebba5c96",
+					"5dea01a1c669bb3aebba5c98",
+					"5dea04e4c669bb3aebba5d06",
+					"5dea04e5c669bb3aebba5d08",
+					"5dea04e5c669bb3aebba5d0a",
+					"5dea04e6c669bb3aebba5d0c",
+					"5dea04e6c669bb3aebba5d0e",
+					"5dea04e6c669bb3aebba5d10",
+					"5dea057bc669bb3aebba5d18",
+					"5dea057bc669bb3aebba5d1a",
+					"5dea057bc669bb3aebba5d1c",
+					"5ded94c7a4c54d55de935d9e",
+					"5e1b337d416a070ee7add5bd"
+				],
+				"totalVoted": 315,
+				"voting": 95
+			},
+			{
+				"_id": "5d690b4cb475302932e77a10",
+				"description": "",
+				"director": [
+					"Aditya Datt"
+				],
+				"writers": [
+					"Darius Yarmil,Junaid Wasi"
+				],
+				"stars": [
+					"Vidyut Jammwal,Adah Sharma,Angira Dhar,Sumeet Thakur"
+				],
+				"productionCompany": [
+					"Darius Yarmil,Junaid Wasi"
+				],
+				"pageViews": 668,
+				"upVoted": [
+					"5d8d0ed86e6974498e97dc62",
+					"5de253d8c669bb3aebba57e7",
+					"5de253dbc669bb3aebba57e9",
+					"5cc29c10fdab38486281ae2a",
+					"5d8b360c14124c3611103a7a",
+					"5de8b5d2c669bb3aebba59c4",
+					"5de9ff89c669bb3aebba5b79",
+					"5de9ff8ac669bb3aebba5b7b",
+					"5de9ff8bc669bb3aebba5b7d",
+					"5de9ffa8c669bb3aebba5b80",
+					"5de9ffaac669bb3aebba5b82",
+					"5de9ffabc669bb3aebba5b84",
+					"5de9ffacc669bb3aebba5b86",
+					"5dea0962c669bb3aebba5d2f",
+					"5dea0964c669bb3aebba5d31",
+					"5dea0965c669bb3aebba5d33",
+					"5deb5102467796395b7d2880",
+					"5deb4ff3467796395b7d287a",
+					"5dfc5b74739142130ac6148c"
+				],
+				"downVoted": [],
+				"title": "Commando 3",
+				"language": "Hindi",
+				"runTime": null,
+				"releasedDate": 1574969399,
+				"genre": "action,thriller",
+				"voted": [
+					{
+						"upVoted": [
+							"5cc29c10fdab38486281ae2a"
+						],
+						"downVoted": [],
+						"_id": "5d690b4cb475302932e77a12",
+						"updatedAt": 1567165260,
+						"genre": "action"
+					},
+					{
+						"upVoted": [
+							"5cc29c10fdab38486281ae2a"
+						],
+						"downVoted": [],
+						"_id": "5d690b4cb475302932e77a11",
+						"updatedAt": 1567165260,
+						"genre": "thriller"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1567165260449_Commando_3.jpg",
+				"totalVoted": 19,
+				"voting": 19
+			},
+			{
+				"_id": "5ce39687c6a326046c9a7b13",
+				"director": [
+					"Milap Zaveri"
+				],
+				"writers": [
+					"Milap Zaveri"
+				],
+				"stars": [
+					"Tara Sutaria,Rakul Preet Singh,Sidharth Malhotra,Riteish Deshmukh"
+				],
+				"releasedDate": 1573759799,
+				"productionCompany": [
+					"Emmay Entertainment"
+				],
+				"title": "Marjaavaan",
+				"language": "Hindi",
+				"runTime": null,
+				"genre": "action,romance",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce39687c6a326046c9a7b15",
+						"updatedAt": 1566555862,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce39687c6a326046c9a7b14",
+						"updatedAt": 1566555862,
+						"genre": "romance"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1558419079762_Marjaavaan.jpg",
+				"pageViews": 273,
+				"description": "",
+				"totalVoted": 0,
+				"voting": 0
+			},
+			{
+				"_id": "5da1c47881e213068c53fe30",
+				"description": "",
+				"director": [
+					"Navdeep Singh"
+				],
+				"writers": [
+					"Sudip Sharma,Navdeep Singh"
+				],
+				"stars": [
+					"Saif Ali Khan,Sonakshi Sinha,Henry Douthwaite,Simone Singh"
+				],
+				"productionCompany": [
+					"Sudip Sharma,Navdeep Singh,Deepak Venkatesha"
+				],
+				"pageViews": 276,
+				"upVoted": [
+					"5da9827081e213068c5401fa"
+				],
+				"downVoted": [],
+				"title": "Laal Kaptaan",
+				"language": "Hindi",
+				"runTime": null,
+				"releasedDate": 1571340599,
+				"genre": "action,drama",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5da1c47881e213068c53fe32",
+						"updatedAt": 1570882680,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5da1c47881e213068c53fe31",
+						"updatedAt": 1570882680,
+						"genre": "drama"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1570882680794_Laal_Kaptaan.jpg",
+				"totalVoted": 1,
+				"voting": 1
+			},
+			{
+				"_id": "5ce3d98f75484f14104d8485",
+				"director": [
+					"Siddharth Anand"
+				],
+				"writers": [
+					""
+				],
+				"stars": [
+					"Tiger Shroff,Hrithik Roshan,Vaani Kapoor,R. Bhakti Klein"
+				],
+				"releasedDate": 1569958199,
+				"productionCompany": [
+					""
+				],
+				"title": "War",
+				"language": "Hindi",
+				"runTime": null,
+				"genre": "action,crime,drama",
+				"voted": [
+					{
+						"upVoted": [
+							"5cc29c10fdab38486281ae2a",
+							"5e1ddecb416a070ee7addba3",
+							"5eb664e0d3178a2ede85a9e9"
+						],
+						"downVoted": [],
+						"_id": "5ce3d98f75484f14104d8488",
+						"updatedAt": 1567580731,
+						"genre": "action"
+					},
+					{
+						"upVoted": [
+							"5e1ddecb416a070ee7addba3"
+						],
+						"downVoted": [],
+						"_id": "5ce3d98f75484f14104d8487",
+						"updatedAt": 1567580731,
+						"genre": "crime"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce3d98f75484f14104d8486",
+						"updatedAt": 1567580731,
+						"genre": "drama"
+					}
+				],
+				"pageViews": 578,
+				"description": "",
+				"poster": "https://hoblist.s3.ap-south-1.amazonaws.com/movies/poster/1568109856847_bb2c9b921908383b43eaacd9e0b5cb24.jpg",
+				"upVoted": [
+					"5d958c916e6974498e97e87f",
+					"5d96cf1f6e6974498e97e8bb",
+					"5d986dea6e6974498e97e900",
+					"5d986e646e6974498e97e904",
+					"5cc29c10fdab38486281ae2a"
+				],
+				"totalVoted": 5,
+				"voting": 5
+			},
+			{
+				"_id": "5ce39ff1c6a326046c9a835b",
+				"director": [
+					" Deva Katta"
+				],
+				"writers": [
+					" Jayesh Parmar (dialogue)"
+				],
+				"stars": [
+					"Sanjay Dutt,Ali Fazal,Jackie Shroff,Manisha Koirala"
+				],
+				"releasedDate": 1568921399,
+				"productionCompany": [
+					"Sanjay Dutt Productions"
+				],
+				"title": "Prassthanam",
+				"language": "Hindi",
+				"runTime": null,
+				"genre": "action,drama",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce39ff1c6a326046c9a835d",
+						"updatedAt": 1563113971,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce39ff1c6a326046c9a835c",
+						"updatedAt": 1563113971,
+						"genre": "drama"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1558421489916_Prassthanam.jpg",
+				"pageViews": 367,
+				"description": "",
+				"upVoted": [
+					"5d85b02d14124c36111004b7",
+					"5d85b06314124c36111004b9",
+					"5d85b0c814124c36111004bb",
+					"5d85b14c14124c36111004bf",
+					"5d87768614124c36111005b5"
+				],
+				"totalVoted": 5,
+				"voting": 5
+			},
+			{
+				"_id": "5ce3d33075484f14104d7eee",
+				"director": [
+					"Sujeeth"
+				],
+				"writers": [
+					"Sujeeth"
+				],
+				"stars": [
+					"Shraddha Kapoor,Prabhas,Jackie Shroff,Mandira Bedi"
+				],
+				"releasedDate": 1567106999,
+				"productionCompany": [
+					"UV Creations, ODU Movies"
+				],
+				"title": "Saaho",
+				"language": "Hindi,Malayalam,Tamil,Telugu",
+				"runTime": null,
+				"genre": "action,thriller",
+				"voted": [
+					{
+						"upVoted": [
+							"5e1ee4a2416a070ee7addd97",
+							"5e225b7f416a070ee7ade415"
+						],
+						"downVoted": [],
+						"_id": "5ce3d33075484f14104d7ef0",
+						"updatedAt": 1565233020,
+						"genre": "action"
+					},
+					{
+						"upVoted": [
+							"5e1ee4a2416a070ee7addd97",
+							"5e225b7f416a070ee7ade415"
+						],
+						"downVoted": [],
+						"_id": "5ce3d33075484f14104d7eef",
+						"updatedAt": 1565233020,
+						"genre": "thriller"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1558434608701_Saaho.jpg",
+				"pageViews": 1165,
+				"description": "<div>Saaho is an upcoming 2019 Indian action thriller film written and directed by Sujeeth, produced by UV Creations and T-Series. </div><div>The film stars Prabhas and Shraddha Kapoor, and has been shot simultaneously in Hindi and Telugu. Marking Prabhas' debut in Hindi and Shraddha Kapoor's debut in South Indian cinema, the film has been produced with a budget of ₹350 crore.<a href=\"https://en.wikipedia.org/wiki/Saaho\">Read More&gt;</a></div><div><br></div>",
+				"upVoted": [
+					"5d563b51b3f4fe0d3d89bf82",
+					"5d564e5ab3f4fe0d3d89c164",
+					"5d56503ab3f4fe0d3d89c184",
+					"5d2f0c76c60d0a1dc8bb422e",
+					"5d6778e03833267f9724b12c",
+					"5d2c08b397260761e58250fc",
+					"5d68883bb475302932e7674f",
+					"5d68b48cb475302932e7699a",
+					"5cbfeff3ac575d0e1cff3439",
+					"5d6a9140b475302932e789f9",
+					"5d6decceb475302932e78f51",
+					"5d7257c5f3702d268fbb330e",
+					"5d81fa8314124c36110fe0b3",
+					"5d83a79614124c36110fef73",
+					"5e6f41033247fc29fe7f555d"
+				],
+				"downVoted": [
+					"5d7001aab475302932e7af5f",
+					"5d82194314124c36110fe379",
+					"5d89461914124c361110133b",
+					"5d8d0ed86e6974498e97dc62"
+				],
+				"totalVoted": 19,
+				"voting": 11
+			},
+			{
+				"_id": "5ce397f5c6a326046c9a7c44",
+				"director": [
+					"Nikhil Advani"
+				],
+				"writers": [
+					"Ritesh Shah"
+				],
+				"stars": [
+					"John Abraham,Nora Fatehi,Mrunal Thakur,Ravi Kishan"
+				],
+				"releasedDate": 1565810999,
+				"productionCompany": [
+					"Emmay Entertainment, J.A. Entertainment, T-Series"
+				],
+				"title": "Batla House",
+				"language": "Hindi",
+				"runTime": null,
+				"genre": "action,crime,thriller",
+				"voted": [
+					{
+						"upVoted": [
+							"5cc29c10fdab38486281ae2a",
+							"5dbbdbda81e213068c5406db"
+						],
+						"downVoted": [],
+						"_id": "5ce397f5c6a326046c9a7c47",
+						"updatedAt": 1562929985,
+						"genre": "action"
+					},
+					{
+						"upVoted": [
+							"5cc29c10fdab38486281ae2a",
+							"5dbbdbda81e213068c5406db"
+						],
+						"downVoted": [],
+						"_id": "5ce397f5c6a326046c9a7c46",
+						"updatedAt": 1562929985,
+						"genre": "crime"
+					},
+					{
+						"upVoted": [
+							"5dbbdbda81e213068c5406db"
+						],
+						"downVoted": [],
+						"_id": "5ce397f5c6a326046c9a7c45",
+						"updatedAt": 1562929985,
+						"genre": "thriller"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1558419445863_Batla_House.jpg",
+				"pageViews": 967,
+				"description": "<div>ACP Sanjay Kumar (John Abraham) is informed that his team has cornered 5 university students in L-18, Batla House, who might have been involved in the 2008 serial bombings, the responsibility for which was claimed by the terrorist organisation \"Indian Mujahideen\" (IM). Sanjay orders not to engage until he arrives, but a restless K.K. (Ravi Kishan) proceeds with some officers. Sanjay arrives and upon hearing the gunshots, decides to engage. The building is cleared, and K.K. is found shot down. Sanjay enters the room and there's more shooting, as a result of which 2 students end up dead, 2 escape and 1 is arrested alive. Sanjay now starts facing the heat from media and politicians who start billing the encounter as a fake one. They're joined by the whole nation in condemning the Delhi Police and everyone starts demanding justice for the students who were supposedly killed to account for the bombings. Sanjay's wife Nandita (Mrunal Thakur), a news anchor, is however unwilling to accept this and decides to stay with Sanjay, who soon becomes diagnosed with Posttraumatic stress disorder, frequently hallucinating about getting shot by the terrorists. Nandita somehow stops him whenever he becomes suicidal.</div><div><br></div><div>Sanjay now starts looking for the 2 terrorists that escaped, and finds one of them to hiding in Nizampur. Sanjay is informed by his senior that he would be awarded for the encounter and that he must celebrate. Realizing he's not been told where to celebrate, he heads to Nizampur where he manages to find Dilshad, one of the fugitives. Everyone tries to stop Sanjay, who chases, beats up and almost arrests Dilshad, only to be cornered by the politicians and public who let him escape but without Dilshad. After being awarded the President Medal, Sanjay begins his hunt again and this time, through Dilshad's girlfriend Huma (Nora Fatehi), tricks him into coming to Nepal. He teams up with his officers once again, and sends a van to pick up Dilshad, as a part of his plan. The latter, however, sends someone else to check for anything suspicious. Sanjay runs to stop his officers from engaging upon realizing Dilshad's not in the van and lets it flee. Learning of nothing suspicious, Dilshad informs the van driver he'd depart the next day, and upon landing in Nepal, is stopped, thrashed and arrested by Sanjay and his team.</div><div><br></div><div>The court proceedings begin, where the opposing lawyer (Rajesh Sharma) brings up arguments to counter Sanjay's truth and creates a fake encounter story, as per which K.K. and his men brought the students in L18, tortured and decided to kill them when they were ordered not to do so, following which K.K. was shot by one of his officers. Sanjay, however, brings out the truth that actually his officers had been closely watching the students and realized they belonged to the Indian Mujahideen. The real shootout then plays out, showcasing K.K. and his team engaging when the students fire, and the very fact that K.K. died gives Sanjay's argument a strong support when he tells everyone that no officer has ever died in a fake encounter. His arguments convince the court to sentence the 2 terrorists to life imprisonment, while the last one somehow escapes the country.</div><div><br></div><div>While sections of the media still oppose the ruling and believe the police to be culprits, a video clip that surfaced in 2016 featured a confession from the terrorist who had escaped the encounter, about he managed to do so and later join the ISIS, further confirming the credibility of the encounter&nbsp;<a href=\"https://en.wikipedia.org/wiki/Batla_House\">ReadMore&gt;</a></div>",
+				"upVoted": [
+					"5d563b51b3f4fe0d3d89bf82",
+					"5d2f0c76c60d0a1dc8bb422e",
+					"5d5bdfc80591f7280ccf7d38",
+					"5d5be3c30591f7280ccf7d79",
+					"5d2ec428c60d0a1dc8bb4018",
+					"5cc29c10fdab38486281ae2a",
+					"5cbfeff3ac575d0e1cff3439",
+					"5d60bd7c802f2139f894e883",
+					"5d6399ce526ea70e84196850",
+					"5d8d0ed86e6974498e97dc62"
+				],
+				"totalVoted": 10,
+				"voting": 10
+			},
+			{
+				"_id": "5d4a7c64b3f4fe0d3d89a193",
+				"description": "",
+				"director": [
+					"Sanjiv Jaiswal"
+				],
+				"writers": [
+					"Sanjiv Jaiswal"
+				],
+				"stars": [
+					"Rajeev Khandelwal,Atul Kulkarni,Abhimanyu Singh,Sameksha"
+				],
+				"productionCompany": [
+					"Sanjiv Jaiswal"
+				],
+				"pageViews": 170,
+				"upVoted": [
+					"5d4b8f96b3f4fe0d3d89a89e",
+					"5d4c0da7b3f4fe0d3d89af7f",
+					"5d8d0ed86e6974498e97dc62"
+				],
+				"downVoted": [],
+				"title": "Pranaam",
+				"language": "Hindi",
+				"runTime": null,
+				"releasedDate": 1565292599,
+				"genre": "action,crime,drama,thriller",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5d4a7c64b3f4fe0d3d89a197",
+						"updatedAt": 1565162596,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5d4a7c64b3f4fe0d3d89a196",
+						"updatedAt": 1565162596,
+						"genre": "crime"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5d4a7c64b3f4fe0d3d89a195",
+						"updatedAt": 1565162596,
+						"genre": "drama"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5d4a7c64b3f4fe0d3d89a194",
+						"updatedAt": 1565162596,
+						"genre": "thriller"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1565162596267_Pranaam.jpg",
+				"totalVoted": 3,
+				"voting": 3
+			},
+			{
+				"_id": "5d4a7e54b3f4fe0d3d89a1ad",
+				"description": "",
+				"director": [
+					"Navaniat Singh"
+				],
+				"writers": [
+					"Dheeraj Rattan"
+				],
+				"stars": [
+					"Sonam Bajwa,Kartar Cheema,Parmish Verma,Hardeep Gill"
+				],
+				"productionCompany": [
+					"Dheeraj Rattan"
+				],
+				"pageViews": 300,
+				"upVoted": [
+					"5d4b8f96b3f4fe0d3d89a89e",
+					"5d4c0da7b3f4fe0d3d89af7f",
+					"5d8d0ed86e6974498e97dc62"
+				],
+				"downVoted": [
+					"5d58c612b3f4fe0d3d89c67d"
+				],
+				"title": "Singham",
+				"language": "Hindi,Punjabi",
+				"runTime": null,
+				"releasedDate": 1565292599,
+				"genre": "action,drama",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5d4a7e54b3f4fe0d3d89a1af",
+						"updatedAt": 1565163092,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5d4a7e54b3f4fe0d3d89a1ae",
+						"updatedAt": 1565163092,
+						"genre": "drama"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1565163092743_Singham.jpg",
+				"totalVoted": 4,
+				"voting": 2
+			},
+			{
+				"_id": "5ce2b481afc93f21e84dbfb8",
+				"director": [
+					"Raju Shrestha"
+				],
+				"writers": [
+					""
+				],
+				"stars": [
+					"Kay Kay Menon,Jaya Seal,Naved Aslam,Shri Vallabh Vyas"
+				],
+				"releasedDate": 1565292599,
+				"productionCompany": [
+					""
+				],
+				"title": "Chhal",
+				"language": "Hindi",
+				"runTime": null,
+				"genre": "action,crime,drama,thriller",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce2b481afc93f21e84dbfbc",
+						"updatedAt": 1566794140,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce2b481afc93f21e84dbfbb",
+						"updatedAt": 1566794140,
+						"genre": "crime"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce2b481afc93f21e84dbfba",
+						"updatedAt": 1566794140,
+						"genre": "drama"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5ce2b481afc93f21e84dbfb9",
+						"updatedAt": 1566794140,
+						"genre": "thriller"
+					}
+				],
+				"pageViews": 97,
+				"description": "",
+				"poster": "https://hoblist.s3.ap-south-1.amazonaws.com/movies/poster/1566794137852_index.jpeg",
+				"upVoted": [
+					"5d8d0ed86e6974498e97dc62"
+				],
+				"totalVoted": 1,
+				"voting": 1
+			},
+			{
+				"_id": "5d43faed8fb43e5529f7cb9f",
+				"description": "",
+				"director": [
+					"Suvendu Ghosh"
+				],
+				"writers": [
+					" Suvendu Ghosh"
+				],
+				"stars": [
+					"Mushtaq Khan,Gulshan Pandey,Gargi Patel,Sudip Mukherjee"
+				],
+				"productionCompany": [
+					""
+				],
+				"pageViews": 360,
+				"title": "Chase No Mercy to Crime",
+				"language": "Hindi",
+				"runTime": null,
+				"releasedDate": 1564687799,
+				"genre": "action",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5d43faed8fb43e5529f7cba0",
+						"updatedAt": 1564736237,
+						"genre": "action"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1564736237911_Chase_No Mercy to Crime.jpg",
+				"upVoted": [
+					"5d458bd73de49a0ad55442fd",
+					"5d8d0ed86e6974498e97dc62"
+				],
+				"totalVoted": 2,
+				"voting": 2
+			},
+			{
+				"_id": "5d27665cb9db9c041466d746",
+				"director": [
+					"Chand"
+				],
+				"writers": [
+					""
+				],
+				"stars": [
+					"Kabir Bedi,Yogeeta Bali,Ashok Kumar,Jeetendra"
+				],
+				"productionCompany": [
+					""
+				],
+				"pageViews": 59,
+				"title": "Sazaa",
+				"language": "Hindi",
+				"runTime": null,
+				"genre": "action,thriller",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5d27665cb9db9c041466d748",
+						"updatedAt": 1562863196,
+						"genre": "action"
+					},
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5d27665cb9db9c041466d747",
+						"updatedAt": 1562863196,
+						"genre": "thriller"
+					}
+				],
+				"releasedDate": 1562786999,
+				"description": "",
+				"poster": "https://hoblist.s3.ap-south-1.amazonaws.com/movies/poster/1566562065245_9.jpeg",
+				"totalVoted": 0,
+				"voting": 0
+			},
+			{
+				"_id": "5d27590379ce79183c88d4c9",
+				"director": [
+					"Razneesh Ghai"
+				],
+				"writers": [
+					""
+				],
+				"stars": [
+					"Kangana Ranaut"
+				],
+				"productionCompany": [
+					""
+				],
+				"pageViews": 171,
+				"title": "Dhaakad",
+				"language": "Hindi",
+				"runTime": null,
+				"genre": "action",
+				"voted": [
+					{
+						"upVoted": [],
+						"downVoted": [],
+						"_id": "5d27590379ce79183c88d4ca",
+						"updatedAt": 1562859779,
+						"genre": "action"
+					}
+				],
+				"poster": "https://s3.ap-south-1.amazonaws.com/hoblist/movies/poster/1562859779602_Dhaakad.jpg",
+				"releasedDate": 1562786999,
+				"description": "",
+				"totalVoted": 0,
+				"voting": 0
+			}
+		],
+		"queryParam": {
+			"category": "movies",
+			"language": "hindi",
+			"genre": "action",
+			"sort": "voting"
+		},
+		"code": 1,
+		"message": "success"
+	}
+
+
+]
