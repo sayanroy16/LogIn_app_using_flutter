@@ -1,12 +1,12 @@
-class movies {
+class Movies {
   List<Result> result;
   QueryParam queryParam;
   int code;
   String message;
 
-  movies({this.result, this.queryParam, this.code, this.message});
+  Movies({this.result, this.queryParam, this.code, this.message});
 
-  movies.fromJson(Map<String, dynamic> json) {
+  Movies.fromJson(Map<String, dynamic> json) {
     if (json['result'] != null) {
       result = new List<Result>();
       json['result'].forEach((v) {
@@ -83,7 +83,7 @@ class Result {
     productionCompany = json['productionCompany'].cast<String>();
     title = json['title'];
     language = json['language'];
-    runTime = json['runTime'];
+    runTime = json['runTime'] ?? 0;
     genre = json['genre'];
     if (json['voted'] != null) {
       voted = new List<Voted>();
@@ -93,7 +93,8 @@ class Result {
     }
     pageViews = json['pageViews'];
     description = json['description'];
-    poster = json['poster'];
+    poster = json['poster'] ??
+        "https://st4.depositphotos.com/14953852/22772/v/600/depositphotos_227725020-stock-illustration-image-available-icon-flat-vector.jpg";
     totalVoted = json['totalVoted'];
     voting = json['voting'];
     upVoted = json['upVoted']?.cast<String>();

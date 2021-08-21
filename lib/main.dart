@@ -17,6 +17,7 @@ class AfterSplash extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       initialRoute: LoginScreen.id,
       routes: {
         RegisterScreen.id: (context) => RegisterScreen(),

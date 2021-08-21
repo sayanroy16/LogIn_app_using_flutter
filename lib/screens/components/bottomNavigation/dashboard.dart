@@ -35,7 +35,7 @@ class _DashboardState extends State<Dashboard> {
     // if (response.statusCode == 201) {
     // If the server did return a 201 CREATED response,
     // then parse the JSON.
-    return movies.fromJson(jsonDecode(response.body)).result;
+    return Movies.fromJson(jsonDecode(response.body)).result;
     // } else {
     //   // If the server did not return a 201 CREATED response,
     //   // then throw an exception.
@@ -55,308 +55,131 @@ class _DashboardState extends State<Dashboard> {
                 projectSnap.hasData == null) {
               //print('project snapshot data is: ${projectSnap.data}');
               return Container();
+            } else if (projectSnap.connectionState == ConnectionState.waiting) {
+              return Container(
+                height: MediaQuery.of(context).size.height,
+                child: Center(
+                  child: CircularProgressIndicator(),
+                ),
+              );
             }
             return Container(
-              height: 700,
+              height: MediaQuery.of(context).size.height,
               width: double.infinity,
               child: ListView.builder(
+                shrinkWrap: true,
                 itemCount: projectSnap.data.length,
+                padding: EdgeInsets.only(bottom: 150),
                 itemBuilder: (context, index) {
                   final movie = projectSnap.data[index];
+                  final date = DateTime.fromMillisecondsSinceEpoch(
+                      movie.releasedDate * 1000);
                   return Container(
-                    padding: EdgeInsets.all(20.0),
-                    color: Colors.teal.shade700,
-                    height: (MediaQuery.of(context).size.height / 5),
-                    child: Stack(
-                      children: <Widget>[
-                        Align(
-                          alignment: Alignment.centerLeft,
-                          child: CircleAvatar(
-                            backgroundColor: Colors.teal.shade800,
-                            radius: 50,
-                            child: CircleAvatar(
-                              backgroundColor: Colors.white,
-                              radius: 48,
-                              child: Text(
-                                movie.title,
-                                style: TextStyle(
-                                    color: Colors.red,
-                                    fontSize: 20,
-                                    fontWeight: FontWeight.bold,
-                                    fontStyle: FontStyle.italic),
+                      padding:
+                          EdgeInsets.symmetric(horizontal: 10.0, vertical: 20),
+                      decoration: BoxDecoration(
+                          color: Colors.white,
+                          boxShadow: [
+                            BoxShadow(
+                                color: Colors.black.withOpacity(.3),
+                                blurRadius: 10)
+                          ]),
+                      // height: (MediaQuery.of(context).size.height / 4),
+                      child: Column(
+                        children: [
+                          Row(
+                            mainAxisAlignment: MainAxisAlignment.start,
+                            children: [
+                              Column(
+                                children: [
+                                  IconButton(
+                                      onPressed: () => {},
+                                      icon: Icon(Icons.arrow_upward)),
+                                  Text(
+                                    movie.totalVoted.toString(),
+                                    style: TextStyle(
+                                        fontWeight: FontWeight.bold,
+                                        fontSize: 16),
+                                  ),
+                                  IconButton(
+                                      onPressed: () => {},
+                                      icon: Icon(Icons.arrow_downward)),
+                                  Text(
+                                    "Votes",
+                                    style: TextStyle(
+                                        fontWeight: FontWeight.bold,
+                                        fontSize: 16),
+                                  )
+                                ],
                               ),
-                            ),
-                          ),
-                        ),
-                        Align(
-                          alignment: Alignment.centerRight,
-                          child: Text(
-                            'Category: Movies',
-                            style: TextStyle(
-                              fontSize: 19,
-                              color: Colors.white,
-                            ),
-                          ),
-                        ),
-                        Align(
-                          alignment: Alignment.centerRight + Alignment(0, .5),
-                          child: Text(
-                            'Langauge:${movie.language}',
-                            style: TextStyle(color: Colors.white),
-                          ),
-                        ),
-                        Align(
-                          alignment: Alignment.centerRight + Alignment(0, 1),
-                          child: Text(
-                            'Sort:Voting',
-                            style: TextStyle(color: Colors.white),
-                          ),
-                        ),
-                        Align(
-                          alignment: Alignment.centerRight + Alignment(0, 1),
-                          child: Text(
-                            'Sort:Voting',
-                            style: TextStyle(color: Colors.white),
-                          ),
-                        ),
-                        Align(
-                          alignment: Alignment.center + Alignment(0, 2.1),
-                          child: MaterialButton(
-                            onPressed: () {
-                              //Implement login functionality.
-                              // Navigator.pushNamed(context, HomeScreen.id);
-                            },
-                            child: Text(
-                              "Watch Trailer",
-                              style: TextStyle(
-                                color: Colors.white,
+                              SizedBox(width: 5),
+                              FadeInImage.assetNetwork(
+                                placeholder: "Loading...",
+                                image: movie.poster,
+                                height:
+                                    (MediaQuery.of(context).size.height / 4),
+                                width: (MediaQuery.of(context).size.width / 5),
                               ),
-                            ),
+                              SizedBox(
+                                width: 10,
+                              ),
+                              Container(
+                                width:
+                                    (MediaQuery.of(context).size.width / 1.8),
+                                child: Column(
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  children: [
+                                    Text(movie.title,
+                                        style: TextStyle(
+                                            fontWeight: FontWeight.bold,
+                                            fontSize: 18)),
+                                    SizedBox(
+                                      height: 5,
+                                    ),
+                                    Text(
+                                        "Genre: ${movie.genre.toString()[0].toUpperCase()}${movie.genre.toString().substring(1, movie.genre.length)}"),
+                                    Text(
+                                        "Director: ${movie.director.toString()}",
+                                        softWrap: true),
+                                    Text(
+                                      "Starring: ${movie.stars.toString()}",
+                                      softWrap: true,
+                                    ),
+                                    Text(
+                                        "${movie.runTime.toString()} Mins | ${movie.language} | ${date.toIso8601String().toString()}"),
+                                    Text(
+                                      "${movie.pageViews.toString()} views | Voted by ${movie.totalVoted.toString()} People ",
+                                      style: TextStyle(
+                                          color: Colors.teal, fontSize: 14),
+                                    ),
+                                  ],
+                                ),
+                              )
+                            ],
                           ),
-                        ),
-                      ],
-                    ),
-                  );
+                          SizedBox(
+                            height: 10,
+                          ),
+                          SizedBox(
+                            width: double.infinity,
+                            child: ElevatedButton(
+                                style: ButtonStyle(
+                                    backgroundColor:
+                                        MaterialStateProperty.all(Colors.teal),
+                                    // padding: MaterialStateProperty.all(
+                                    //     EdgeInsets.all(50)),
+                                    textStyle: MaterialStateProperty.all(
+                                        TextStyle(fontSize: 16))),
+                                onPressed: () => {},
+                                child: Text("Watch Trailer")),
+                          )
+                        ],
+                      ));
                 },
               ),
             );
           },
           future: fetchMovies(),
-        ),
-        CarouselSlider(
-            options: CarouselOptions(
-              height: (MediaQuery.of(context).size.height / 5),
-              aspectRatio: 2,
-              viewportFraction: 1.0,
-              initialPage: 0,
-            ),
-            items: <Widget>[
-              Container(
-                padding: EdgeInsets.all(20.0),
-                color: Colors.teal.shade700,
-                height: (MediaQuery.of(context).size.height / 5),
-                child: Stack(
-                  children: <Widget>[
-                    Align(
-                      alignment: Alignment.centerLeft,
-                      child: CircleAvatar(
-                        backgroundColor: Colors.teal.shade800,
-                        radius: 50,
-                        child: CircleAvatar(
-                          backgroundColor: Colors.white,
-                          radius: 48,
-                          child: Text(
-                            'Bond 25',
-                            style: TextStyle(
-                                color: Colors.red,
-                                fontSize: 20,
-                                fontWeight: FontWeight.bold,
-                                fontStyle: FontStyle.italic),
-                          ),
-                        ),
-                      ),
-                    ),
-                    Align(
-                      alignment: Alignment.centerRight,
-                      child: Text(
-                        'Category: Movies',
-                        style: TextStyle(
-                          fontSize: 19,
-                          color: Colors.white,
-                        ),
-                      ),
-                    ),
-                    Align(
-                      alignment: Alignment.centerRight + Alignment(0, .5),
-                      child: Text(
-                        'Langauge:Kannda',
-                        style: TextStyle(color: Colors.white),
-                      ),
-                    ),
-                    Align(
-                      alignment: Alignment.centerRight + Alignment(0, 1),
-                      child: Text(
-                        'Sort:Voting',
-                        style: TextStyle(color: Colors.white),
-                      ),
-                    ),
-                    Align(
-                      alignment: Alignment.centerRight + Alignment(0, 1),
-                      child: Text(
-                        'Sort:Voting',
-                        style: TextStyle(color: Colors.white),
-                      ),
-                    ),
-                    Align(
-                      alignment: Alignment.center + Alignment(0, 2.1),
-                      child: MaterialButton(
-                        onPressed: () {
-                          //Implement login functionality.
-                          // Navigator.pushNamed(context, HomeScreen.id);
-                        },
-                        child: Text(
-                          "Watch Trailer",
-                          style: TextStyle(
-                            color: Colors.white,
-                          ),
-                        ),
-                      ),
-                    ),
-                  ],
-                ),
-              ),
-            ]),
-        Container(
-          padding: EdgeInsets.all(20.0),
-          color: Colors.white,
-          height: (MediaQuery.of(context).size.height / 5),
-          child: Stack(
-            children: <Widget>[
-              Align(
-                alignment: Alignment.centerLeft,
-                child: CircleAvatar(
-                  backgroundColor: Colors.white,
-                  radius: 50,
-                  child: CircleAvatar(
-                    backgroundColor: Colors.teal,
-                    radius: 48,
-                    child: Text(
-                      'Venom',
-                      style: TextStyle(
-                          color: Colors.white,
-                          fontSize: 20,
-                          fontWeight: FontWeight.bold,
-                          fontStyle: FontStyle.italic),
-                    ),
-                  ),
-                ),
-              ),
-              Align(
-                alignment: Alignment.centerRight,
-                child: Text(
-                  'Category: Movies',
-                  style: TextStyle(
-                    fontSize: 19,
-                    color: Colors.teal,
-                  ),
-                ),
-              ),
-              Align(
-                alignment: Alignment.centerRight + Alignment(0, .5),
-                child: Text(
-                  'Langauge:English',
-                  style: TextStyle(color: Colors.teal),
-                ),
-              ),
-              Align(
-                alignment: Alignment.centerRight + Alignment(0, 1),
-                child: Text(
-                  'Sort:Voting',
-                  style: TextStyle(color: Colors.teal),
-                ),
-              ),
-              Align(
-                alignment: Alignment.center + Alignment(0, 2.1),
-                child: MaterialButton(
-                  onPressed: () {
-                    //Implement login functionality.
-                    // Navigator.pushNamed(context, HomeScreen.id);
-                  },
-                  child: Text(
-                    "Watch Trailer",
-                    style: TextStyle(
-                      color: Colors.red,
-                    ),
-                  ),
-                ),
-              ),
-            ],
-          ),
-        ),
-        Container(
-          padding: EdgeInsets.all(20.0),
-          color: Colors.teal.shade700,
-          height: (MediaQuery.of(context).size.height / 5),
-          child: Stack(
-            children: <Widget>[
-              Align(
-                alignment: Alignment.centerLeft,
-                child: CircleAvatar(
-                  backgroundColor: Colors.teal.shade800,
-                  radius: 50,
-                  child: CircleAvatar(
-                    backgroundColor: Colors.white,
-                    radius: 48,
-                    child: Text('Eternals',
-                        style: TextStyle(
-                            color: Colors.red,
-                            fontSize: 20,
-                            fontWeight: FontWeight.bold,
-                            fontStyle: FontStyle.italic)),
-                  ),
-                ),
-              ),
-              Align(
-                alignment: Alignment.centerRight,
-                child: Text(
-                  'Category: Movies',
-                  style: TextStyle(
-                    fontSize: 19,
-                    color: Colors.white,
-                  ),
-                ),
-              ),
-              Align(
-                alignment: Alignment.centerRight + Alignment(0, .5),
-                child: Text(
-                  'Langauge:English',
-                  style: TextStyle(color: Colors.white),
-                ),
-              ),
-              Align(
-                alignment: Alignment.centerRight + Alignment(0, 1),
-                child: Text(
-                  'Sort:Voting',
-                  style: TextStyle(color: Colors.white),
-                ),
-              ),
-              Align(
-                alignment: Alignment.center + Alignment(0, 2.1),
-                child: MaterialButton(
-                  onPressed: () {
-                    //Implement login functionality.
-                    // Navigator.pushNamed(context, HomeScreen.id);
-                  },
-                  child: Text(
-                    "Watch Trailer",
-                    style: TextStyle(
-                      color: Colors.white,
-                    ),
-                  ),
-                ),
-              ),
-            ],
-          ),
         ),
       ],
     ));
